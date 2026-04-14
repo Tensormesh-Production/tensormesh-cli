@@ -1,13 +1,13 @@
 {
   "assets": {
-    "darwin-amd64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/tm-darwin-amd64.tar.gz",
-    "darwin-arm64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/tm-darwin-arm64.tar.gz",
-    "linux-amd64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/tm-linux-amd64.tar.gz",
-    "linux-arm64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/tm-linux-arm64.tar.gz"
+    "darwin-amd64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/tm-darwin-amd64.tar.gz",
+    "darwin-arm64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/tm-darwin-arm64.tar.gz",
+    "linux-amd64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/tm-linux-amd64.tar.gz",
+    "linux-arm64": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/tm-linux-arm64.tar.gz"
   },
-  "checksums_url": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/SHA256SUMS",
-  "installer_url": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/install-tm.sh",
-  "manifest_url": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.8/RELEASE-MANIFEST.json",
-  "published_at": "2026-04-12T07:18:51.104808+00:00",
-  "version": "v0.1.8"
+  "checksums_url": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/SHA256SUMS",
+  "installer_url": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/install-tm.sh",
+  "manifest_url": "https://github.com/Tensormesh-Production/tensormesh-cli/releases/download/v0.1.9/RELEASE-MANIFEST.json",
+  "published_at": "2026-04-14T00:01:57.127329+00:00",
+  "version": "v0.1.9"
 }
